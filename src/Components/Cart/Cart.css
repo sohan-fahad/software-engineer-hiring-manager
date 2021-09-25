@@ -1,0 +1,15 @@
+.name h5 {
+    list-style: none;
+}
+
+.btn-hired {
+    width: 150px;
+    height: 40px;
+    margin: 2px auto;
+    background-color: #FF2442;
+    color: white;
+    font-weight: 700;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
