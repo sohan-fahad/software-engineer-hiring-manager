@@ -13,7 +13,7 @@ const Cart = (props) => {
     )
     const userIcon = <FontAwesomeIcon icon={faUser} />
     return (
-        <div>
+        <div className="cart">
             <h3>{userIcon} Total Add: {totalHired.length}</h3>
             <h3>Total: ${total}</h3>
             <div className="name">{name}</div>

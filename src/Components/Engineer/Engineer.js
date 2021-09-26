@@ -15,7 +15,7 @@ const Engineer = (props) => {
                 </div>
                 <div className="engineer-info">
                     <div>
-                        <h3>{name}</h3>
+                        <h3 className="engineer-name">{name}</h3>
                     </div>
                     <div className="engineer-details">
                         <h5>Age: {age}</h5>

@@ -15,6 +15,9 @@
     height: 70%;
 }
 
+.engineer-name {
+    color: #FF2442;
+}
 .engineer-details{
     text-align: left;
 }

@@ -1,3 +1,10 @@
+.cart {
+    position: fixed;
+    margin-left: 100px;
+    border-radius: 5px;
+    padding: 20px 40px;
+    box-shadow: 2px 2px 5px rgba(128, 128, 128, 0.349);
+}
 .name h5 {
     list-style: none;
 }
